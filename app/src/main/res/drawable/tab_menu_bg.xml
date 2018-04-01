@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape>
+            <solid android:color="#FF444444" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/bg_grey" />
+        </shape>
+    </item>
+</selector>
